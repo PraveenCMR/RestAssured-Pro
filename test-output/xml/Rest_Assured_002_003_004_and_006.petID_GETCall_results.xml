@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="API_Assignment"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.555">
+    <properties></properties>
+
+
+
+            <testcase
+                name="do_Authentication_Validation_Ass_004"
+                time="2.555"
+                classname="Rest_Assured_002_003_004_and_006.petID_GETCall">
+            </testcase>
+</testsuite>
